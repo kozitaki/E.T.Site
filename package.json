@@ -1,5 +1,5 @@
 {
-  "name": "LGPR_Portal",
+  "name": "E.T.Site",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@git.linecorp.com:UIT-LFK/LGPR_Portal.git"
+    "url": "https://github.com/kozitaki/E.T.Site.git"
   },
   "keywords": [],
   "author": "",
