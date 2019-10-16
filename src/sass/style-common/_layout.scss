@@ -3,15 +3,37 @@
 //////////////////////////////////////////////
 // pc
 //////////////////////////////////////////////
+@mixin LyHeader_pc {
+  .LyHeader {
 
+  }
+}
+@mixin LyContents_pc {
+  .LyContents {
 
+  }
+}
+@mixin LyFooter_pc {
+  .LyFooter {
 
-
-
-
-
-
+  }
+}
 
 //////////////////////////////////////////////
 // sp
 //////////////////////////////////////////////
+@mixin LyHeader_sp {
+  .LyHeader {
+
+  }
+}
+@mixin LyContents_sp {
+  .LyContents {
+
+  }
+}
+@mixin LyFooter_sp {
+  .LyFooter {
+
+  }
+}
