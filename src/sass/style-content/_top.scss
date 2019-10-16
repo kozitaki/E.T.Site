@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+//////////////////////////////////////////////
+// pc
+//////////////////////////////////////////////
+@mixin Section01_pc {
+  .MdMN01Section {
+    .mdMN01SectionWrap {
+      .mdMN01SectionInner {
+
+      }
+    }
+  }
+}
+@mixin Section02_pc {
+  .MdMN02Section {
+    .mdMN02SectionWrap {
+      .mdMN02SectionInner {
+
+      }
+    }
+  }
+}
+@mixin Section03_pc {
+  .MdMN03Section {
+    .mdMN03SectionWrap {
+      .mdMN03SectionInner {
+
+      }
+    }
+  }
+}
+
+//////////////////////////////////////////////
+// sp
+//////////////////////////////////////////////
+@mixin Section01_sp {
+  .MdMN01Section {
+    .mdMN01SectionWrap {
+      .mdMN01SectionInner {
+
+      }
+    }
+  }
+}
+@mixin Section02_sp {
+  .MdMN02Section {
+    .mdMN02SectionWrap {
+      .mdMN02SectionInner {
+
+      }
+    }
+  }
+}
+@mixin Section03_sp {
+  .MdMN03Section {
+    .mdMN03SectionWrap {
+      .mdMN03SectionInner {
+
+      }
+    }
+  }
+}

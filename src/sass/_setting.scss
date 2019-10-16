@@ -1,0 +1,33 @@
+//////////////////////////////////////////////
+// Setting
+//////////////////////////////////////////////
+// body-setting
+$body-font-size  : 14px;
+$body-line-height: 21px;
+$body-font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, "游ゴシック", YuGothic, "ＭＳ Ｐゴシック", Verdana, Roboto, "Droid Sans", "sans-serif";
+$body-color   : #000;
+$body-bg-color: #fff;
+
+// link-setting
+$link-color: "#000";
+$link-deco-link: none;
+$link-deco-hover: underline;
+
+// margin-setting
+
+// padding-setting
+
+// after-setting
+
+// before-setting
+
+//////////////////////////////////////////////
+// Mixin
+//////////////////////////////////////////////
+@mixin body {
+  font-size: $body-font-size;
+  line-height: $body-line-height;
+  font-family: $body-font-family;
+  color: $body-color;
+  background-color: $body-bg-color;
+}
