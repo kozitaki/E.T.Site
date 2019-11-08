@@ -38,7 +38,11 @@
   .MdMN01Section {
     .mdMN01SectionWrap {
       .mdMN01SectionInner {
-
+        p {
+          font-size: 20px;
+          font-weight: bold;
+          color: black;
+        }
       }
     }
   }
